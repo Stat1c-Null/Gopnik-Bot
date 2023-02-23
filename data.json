@@ -1,0 +1,13 @@
+{"sentences": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hello", "Whats up", "Good morning", "Is anyone there ?"],
+     "responses": ["Hello Suka Blyat", "Good day tovarish", "Privet comrade"],
+     "context_set": ""
+    },
+    {"tag": "goodbye",
+    "patterns": ["good bye", "see you later", "i am leaving", "bye"],
+    "responses": ["Poshel Nahui pidor", "Yeah get lost", "Poputnogo Vitra Tobi v sraku", "good bye, good luck"],
+    "context_set": ""
+    }
+  ]
+}
