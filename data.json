@@ -8,6 +8,16 @@
     "patterns": ["good bye", "see you later", "i am leaving", "bye"],
     "responses": ["Poshel Nahui pidor", "Yeah get lost", "Poputnogo Vitra Tobi v sraku", "good bye, good luck"],
     "context_set": ""
+    },
+    {"tag": "time",
+     "patterns": ["what time is it?", "do you know the time?", "tell me the time", "what hour is it"],
+     "responses": ["I think its time to kick your punk ass", "Time to Nabit Tebe Ebalo", "Suka the time is "],
+     "context_set": ""
+    },
+    {"tag": "money",
+    "patterns": ["I am low on money", "I have a lot of money", "I need money", "How can I make some money ?"],
+    "responses": ["Gop Stop, I came around the corner, give me all your money dolboyob", "Go beat on some nerds, and you can make millions like I do", "Real estate suka blyat", "Gop Stop is the best way to make money"],
+    "context_set": ""
     }
   ]
 }
